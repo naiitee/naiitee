@@ -5,8 +5,8 @@
 </p>
 
 <h1 
-<a align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D58300&random=false&width=435&lines=Hi+I'm+xcrxypt+!;Welcome+to+my+GitHub+profile" alt="Typing SVG"/></a>
-<a align="center"><a href="https://github.com/xcrxypt"><img src="https://github-readme-stats.vercel.app/api?username=xcrxypt&show_icons=true&theme=great-gatsby" alt="xcrypt's github stats>/></a>
+<a align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D58300&random=false&width=435&lines=Hi+I'm+naite+!;Welcome+to+my+GitHub+profile+!" alt="Typing SVG"/></a>
+<a align="center"><a href="https://github.com/xcrxypt"><img src="https://github-readme-stats.vercel.app/api?username=naiitee&show_icons=true&theme=great-gatsby" alt="naite's github stats>/></a>
   </h1>
 </p>
 
